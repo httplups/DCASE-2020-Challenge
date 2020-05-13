@@ -1,0 +1,3 @@
+reduzir features -> diminui o tamanho do modelo e melhora a acurácia levemente
+
+diminuir o tamanho do df -> não reduziu o tamanho do modelo
